@@ -1,1 +1,1 @@
-from submodule import version_check
+from .submodule import version_check
