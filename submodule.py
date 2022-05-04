@@ -1,2 +1,3 @@
 def version_check():
-    return "0.1.0"
+    return {'name': 'submodule-test',
+        'version': '0.1.0'}
